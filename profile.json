@@ -1,0 +1,22 @@
+{
+    "firstName" :  "Memely",
+    "lastName"   :  "Squarepants",
+    "displayHandle" : "Dankmilk",
+    "posts" : ["finally, I've awoken.", "posts will be here every turday", "every day is a turday, lol"],
+    "age": "22",
+    "online" : true,
+    "social_media" : [
+{
+    "description" : "twitter",
+    "link" : "https://twitter.com/Dankmilk"
+  },
+{
+  "description" : "facebook",
+    "link" : "https://www.facebook.com/dankcow"
+  },
+{
+    "description" : "github",
+    "link" : "https://github.com/e-villa"
+  }
+                    ]
+}
