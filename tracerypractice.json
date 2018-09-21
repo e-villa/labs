@@ -1,0 +1,90 @@
+{
+	"name": [
+		"Post Malone",
+		"Ninja",
+		"Eminem",
+		"FouseyTube",
+		"Pewdiepie",
+		"21 Savage",
+		"Lil Xan"
+	],
+	"occupation": [
+		"singer-songwriter",
+		"twitch streamer",
+		"rapper",
+		"prankster",
+		"youtuber",
+		"actor"
+	],
+	"origin": [
+		"#name# the #occupation#, was #always# #expecting# this #disagreement# with his #management#. #other person# #tricked# him by #stole# his #object# and breaking their #trust#. To read more click here: https://www.#urlName#. "
+	],
+	"always": [
+		"never",
+		"rarely",
+		"seldom",
+		""
+	],
+	"expecting": [
+		"anticipating",
+		"believing",
+		"awaiting"
+	],
+	"disagreement": [
+		"drag",
+		"falling out",
+		"exclusion",
+		""
+	],
+	"other person": [
+		"Shady Records",
+		"21 Savage",
+		"Republic Records",
+		"Justin Bieber",
+		"Ice Poseiden",
+		"Andy Milonakis",
+		"Tyler the Creator",
+		"H3H3 Productions"
+	],
+	"stole": [
+		"embezzling",
+		"robbing",
+		"taking",
+		"stealing"
+	],
+	"trust": [
+		"friendship",
+		"alliance",
+		""
+	],
+	"object": [
+		"money",
+		"jewelry",
+		"followers",
+		"fanbase",
+		"views",
+		"subscribers"
+	],
+	"management": [
+		"company",
+		"fellow rapper",
+		"former friend ",
+		"fellow youtuber",
+		"co-star",
+		"contract",
+		"management"
+	],
+	"tricked": [
+		"cheated",
+		"deceived",
+		"dissed",
+		"outraged",
+		"defraud"
+	],
+	"urlName": [
+		"modernnews.com",
+		"mementertainment.com",
+		"emnews.com",
+		"socialplatinumnews.com"
+	]
+}
